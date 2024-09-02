@@ -1,0 +1,53 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif; 
+}
+
+h1 {
+  color: red;
+}
+
+
+img {
+  width: 300px;
+  padding-bottom: 15px; 
+ 
+ 
+}
+
+.mainBreak {
+  width: 300px; 
+  border: 1px solid green;
+  margin: 50px;
+  padding: 10px;
+  box-shadow: 8px 8px 8px 0 rgba(1, 69, 3, 0.9);
+}
+
+
+.boldThis {
+  font-weight: 700;
+  /*text-decoration: underline;*/
+}
+
+
+li {
+  list-style: none;
+  padding: 3px; 
+
+}
+
+.interesting-fact.italicToo {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.div-facts{
+  border: 1px solid rgb(21, 143, 2);
+
+}
+
+
+.interesting-fact, .align-items{
+  padding: 15px; 
+}
